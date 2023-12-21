@@ -50,6 +50,7 @@ public class ShopServlet extends HttpServlet {
 		String item = request.getParameter("item");
 
 		// add the selected item to the session with a lowercase key
+		// new key value will overwrite old key value, therefore only item cannot be duplicated
 		session.setAttribute(item.toLowerCase(), item);
 
 		// set the response content type to html
