@@ -1,0 +1,31 @@
+Sun Dec 31 18:28:43 SGT 2023 : Apache Derby Network Server - 10.14.1.0 - (1808820) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Dec 31 18:31:14 SGT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-018c-bf6b-33a9-ffffec905df8 
+on database directory D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin\StudentDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/D:/fusion-boot-camp/coursera/java-ee-specialization/4-ejb_jpa/setup/Derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Dec 31 18:31:15 SGT 2023:
+Shutting down instance a816c00e-018c-bf6b-33a9-ffffec905df8 on database directory D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin\StudentDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Sun Dec 31 18:31:15 SGT 2023 Thread[DRDAConnThread_3,5,main] (DATABASE = StudentDB), (DRDAID = {2}), Database 'StudentDB' shutdown.
+----------------------------------------------------------------
+Sun Dec 31 18:31:20 SGT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance 601a400f-018c-bf6b-33a9-ffffec905df8 
+on database directory D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin\StudentDB with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/D:/fusion-boot-camp/coursera/java-ee-specialization/4-ejb_jpa/setup/Derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\fusion-boot-camp\coursera\java-ee-specialization\4-ejb_jpa\setup\Derby\bin
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,11 @@
+<tomee>
+<Resource id="studentDS" type="javax.sql.DataSource">
+      jdbcDriver = org.apache.derby.jdbc.ClientDriver
+      jdbcUrl = jdbc:derby://localhost:1527/StudentDB
+      password = password
+      userName = guest
+      JtaManaged = true />
+</Resource>
+
+ 
+</tomee>

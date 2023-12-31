@@ -1,0 +1,10 @@
+String firstName = request.getParameter("firstName");
+String lastName = request.getParameter("surname");
+String dept = request.getParameter("dept");
+		 
+Student student = new Student(firstName, lastName, dept, 0.00);
+studentDaoWaitList.add(student);
+Collection<Student> students = studentDaoWaitList.getAll();
+request.setAttribute("waitList", students);
+		
+request.getRequestDispatcher("home.jsp").forward(request, response);
